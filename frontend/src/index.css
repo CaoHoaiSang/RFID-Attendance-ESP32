@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Outfit;
+}
+
+body{
+  min-height: 100vh;
+  background-color: #fcfcfc;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+.app-content{
+  display: flex;
+}
+
+.flex-col{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.cursor{
+  cursor: pointer;
+}

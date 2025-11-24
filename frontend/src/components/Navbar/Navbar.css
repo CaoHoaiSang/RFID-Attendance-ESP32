@@ -1,0 +1,14 @@
+.navbar {
+    background: linear-gradient(to bottom, #340e40, #470e58); /* Màu nền gradient tím đậm */
+    text-align: center; /* Căn giữa chữ */
+    padding: 10px 0; /* Khoảng cách trên dưới */
+  }
+  
+  .navbar h1 {
+    color: white; /* Màu chữ trắng */
+    font-size: 40px; /* Cỡ chữ */
+    font-weight: bold; /* Chữ đậm */
+    text-transform: uppercase; /* Viết hoa */
+    letter-spacing: 2px; /* Khoảng cách giữa các chữ */
+  }
+  
